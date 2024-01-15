@@ -1,0 +1,3 @@
+Trong machine learning, các polynomial function (hàm đa thức) được sử dụng để mô hình hóa mối quan hệ giữa các biến đầu vào và đầu ra. Một polynomial function là một hàm số được tạo ra từ các biến và các hệ số, trong đó các biến được nhân và cộng với nhau với các bậc (độ cao) khác nhau. Cụ thể, một polynomial function bậc n có dạng như sau
+
+Trong machine learning, polynomial functions thường được sử dụng để mở rộng không gian đặc trưng của dữ liệu. Khi dữ liệu không thể được mô hình hóa tốt bằng một đường thẳng hoặc một đường cong đơn giản, việc sử dụng đa thức có thể giúp mô hình chính xác hơn.
