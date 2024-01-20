@@ -1,0 +1,2 @@
++ đứng ở trên đỉnh 1 ngọn đùi nhìn xung quanh rồi tim iẻction ngắn nhất để bước xuông đồi 
++ giá trị khởi đầu khác nhau sẽ cho min khác nhau gọi là local minimal  
