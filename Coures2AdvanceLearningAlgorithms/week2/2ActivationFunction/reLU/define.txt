@@ -1,0 +1,1 @@
+1.giải quyết vấn đề của việc mô hình hóa mức độ nhận thức (awareness) trong ví dụ dự đoán nhu cầu sản phẩm. Thay vì mô hình nhận thức là một giá trị nhị phân (binary) hoặc một giá trị nằm giữa 0 và 1, họ đề xuất rằng nhận thức có thể là một số không âm có thể từ 0 đến các giá trị lớn. Điều này thúc đẩy ý tưởng về việc sử dụng hàm kích hoạt ReLU.
